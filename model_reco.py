@@ -41,7 +41,6 @@ def format_genre(genres_list):
   # Selon le genre recherche
 
 def reco(df, X_scaled, model_Classifier, critere_titre, critere_genre, critere_acteur):
-  print ("Nous cherchons les meilleurs films pour vous...")
   try:
     recherche_titre = df.loc[(df['title'] == critere_titre)]
 
