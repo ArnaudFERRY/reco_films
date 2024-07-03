@@ -1,4 +1,4 @@
-Projet réalisé en juillet / Aout 2023 dans le cadre de la formation Data Analyst à la Wild Code School<br>
+Projet réalisé en juin / juillet 2023 dans le cadre de la formation Data Analyst à la Wild Code School<br>
 Merci également à mon groupe projet : Zeineb, Shaoyang, Angélique et Nell
 
 ## Structure du projet
