@@ -1,6 +1,8 @@
 Projet réalisé en juin / juillet 2023 dans le cadre de la formation Data Analyst à la Wild Code School<br>
 Merci également à mon groupe projet : Zeineb, Shaoyang, Angélique et Nell
 
+Le projet final est accessible ici : https://recofilms.streamlit.app
+
 ## Structure du projet
 ### Données
 * films_selection.csv : Contient les données sur les films
