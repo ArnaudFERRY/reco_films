@@ -11,6 +11,7 @@
 ### Autre
 * requirements.txt : Contient les versions utilisées (Obligatoire pour la publication sur Streamlit)
 
-RQ : Le fichier films_selection.csv est un fichier epuré d'une sélection de films obtenu à partir des fichiers IMDB
+RQ : Le fichier films_selection.csv est un fichier epuré d'une sélection de films obtenu à partir des fichiers IMDB.
+
 Les différents fichiers sont importés, nettoyés et filtrés afin d'obtenir une sélection de films
 Source IMDB : https://datasets.imdbws.com
